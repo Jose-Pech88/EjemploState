@@ -1,0 +1,12 @@
+C:\Users\jose.pech\source\repos\State\State\bin\Debug\State.exe.config
+C:\Users\jose.pech\source\repos\State\State\bin\Debug\State.exe
+C:\Users\jose.pech\source\repos\State\State\bin\Debug\State.pdb
+C:\Users\jose.pech\source\repos\State\State\obj\Debug\State.csprojAssemblyReference.cache
+C:\Users\jose.pech\source\repos\State\State\obj\Debug\State.exe
+C:\Users\jose.pech\source\repos\State\State\obj\Debug\State.pdb
+C:\Users\jose.pech\Documents\GitHub\EjemploState\State\State\bin\Debug\State.exe.config
+C:\Users\jose.pech\Documents\GitHub\EjemploState\State\State\bin\Debug\State.exe
+C:\Users\jose.pech\Documents\GitHub\EjemploState\State\State\bin\Debug\State.pdb
+C:\Users\jose.pech\Documents\GitHub\EjemploState\State\State\obj\Debug\State.csprojAssemblyReference.cache
+C:\Users\jose.pech\Documents\GitHub\EjemploState\State\State\obj\Debug\State.exe
+C:\Users\jose.pech\Documents\GitHub\EjemploState\State\State\obj\Debug\State.pdb
